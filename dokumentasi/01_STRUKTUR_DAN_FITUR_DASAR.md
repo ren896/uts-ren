@@ -52,7 +52,7 @@ final List<Map<String, dynamic>> daftarMahasiswa = [
 ];
 ```
 
-*Catatan: Karena data hanya disimpan di memori (RAM), setiap kali program ditutup dan dibuka kembali, data akan kembali seperti semula.*
+*Catatan: Karena data hanya disimpangi di memori (RAM), setiap kali program ditutup dan dibuka kembali, data akan kembali seperti semula.*
 
 ---
 
